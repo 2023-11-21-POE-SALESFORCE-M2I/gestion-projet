@@ -9,7 +9,7 @@
 L'exercice se déroule en 3 phases.
 1. La phase 1, 30 min en groupe : préparation des questions pour les utilisateurs finaux à l'aide d'un [GoogleForms](https://docs.google.com/forms/u/0/).
 2. La phase 2, diffusez vous questions aux autres groupes et au formateur qui auront 10 minutes pour répondre à vos questions en se mettant dans la peau d'un potentiel utilisateur ou en étant vous-même.
-3. La phase 3, 20 min en équipe (en avoir au moins 1): créez vos personas à partir de l'analyse des réponses et à l'aide du site [Edit.org](https://edit.org/fr/blog/user-persona-online-editable-templates-examples)
+3. La phase 3, 20 min en équipe (en avoir au moins 1): créez vos personas à partir de l'analyse des réponses sur JIRA avec l'extension *Personas*
 
 ---
 
@@ -17,7 +17,7 @@ L'exercice se déroule en 3 phases.
 
 1. À partir du besoin exprimé ci-dessous, préparez une série de questions destinées aux utilisateurs finaux à l'aide de [GoogleForms](https://docs.google.com/forms/u/0/).
 2. Répondez aux questions des autres groupes depuis les formulaires Google.
-3. Analysez les réponses de votre formulaire et créez vos personas à l'aide du site [Edit.org](https://edit.org/fr/blog/user-persona-online-editable-templates-examples).
+3. Analysez les réponses de votre formulaire et créez vos personas sur JIRA.
 
 ---
 
